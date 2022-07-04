@@ -1,8 +1,8 @@
 Steps to follow
 
 By default, Database is configured with postgresql.
-To chagnge configuration, check .env file
----------------------------------------------------------------------------------------------------------------------------------------------------------
+To change configuration, check .env file
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 Create Database booking
 
 Run the following Commands:-
